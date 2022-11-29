@@ -16,6 +16,12 @@ Open `part1.py` , and follow the instructions in the comments.
 
 5. Use `map()` and `lambda` to do the same thing **without** `abs()`.
 
+For more practice with `map()` and `lambda` do the same exercises as above with other functions:
+
+* `pow()`
+* `sqrt()` 
+* `swapcase()` for strings
+
 
 ## Part 3: `zip()`
 
